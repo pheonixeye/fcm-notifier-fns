@@ -1,0 +1,19 @@
+name: fcm_notifier_fns
+version: 0.0.1
+
+environment:
+  sdk: ^2.17.0
+
+dependencies:
+  dart_appwrite: 8.0.0
+  http: 
+  googleapis_auth:
+  freezed_annotation: 
+  json_annotation: 
+  equatable:
+
+dev_dependencies:
+  lints: 
+  build_runner: 
+  freezed: 
+  json_serializable:
